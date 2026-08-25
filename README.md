@@ -47,10 +47,10 @@ Results-driven Software Engineer with 4+ years of experience designing, optimizi
 
 ### Featured Projects
 
-**[TMDB Client](#)** — Android · MVVM · Room · Retrofit · Dagger
+**[TMDB Client](https://github.com/piyushyadav00/tmdb-client)** — Android · MVVM · Room · Retrofit · Dagger
 Movie discovery app fetching trending content and actor details via the TMDb REST API, with offline access and dynamic UI updates.
 
-**[Notes App](#)** — Android · MVVM · Room
+**[Notes App](https://github.com/piyushyadav00/notes-app)** — Android · MVVM · Room
 Productivity-focused notes app with create, edit, delete, search, and priority-based sorting, backed by Room for persistent offline storage.
 
 ---
@@ -78,8 +78,11 @@ Productivity-focused notes app with create, edit, delete, search, and priority-b
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=piyushyadav00&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushyadav00&layout=compact" />
+  <img height="165" src="https://github-readme-stats-tau-liart-58.vercel.app/api?username=piyushyadav00&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats-tau-liart-58.vercel.app/api/top-langs/?username=piyushyadav00&layout=compact" />
 </p>
+
+<!-- If these still don't load, the free stats service is likely rate-limited.
+Safe to just delete this "GitHub Stats" section entirely — it's optional polish, not essential. -->
 
 <p align="center"><i>Building at the platform layer, one commit at a time.</i></p>
